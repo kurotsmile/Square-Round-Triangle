@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Square-Round-Triangle/Scenes/GameMain.unity
+    path: Assets/Scenes/GameMain.unity
     guid: 1ffc0298c3140ae4dba6226567610dab
   m_configObjects: {}
